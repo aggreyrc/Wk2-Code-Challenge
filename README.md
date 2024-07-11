@@ -14,4 +14,5 @@ Array: Maintain a JavaScript array to store shopping list items.
 1. Attach event listeners to the "Add" button to capture user input and add items to the list.
 2. Attach event listeners to the list of items to allow users to mark them as purchased.
 3. Attach an event listener to the "Clear List" button to remove all items from the list.
- 
+
+ The Vercel hosting url is: https://wk2-code-challenge-ebon.vercel.app/
